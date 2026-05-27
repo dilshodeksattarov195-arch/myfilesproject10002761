@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderrelete",
+        "uuid": 12772386,
+        "checksum": "qwvtdn"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
